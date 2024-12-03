@@ -1,13 +1,13 @@
 # Active-Directory
 
-## WORK IN PROGRESS 
+
 
 
 <br />
 <p align="center">  
 <br />
-<br/>
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*kW-mFsR5zjhrpmfmLRdSrQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+WORK IN PROGRESS <br/>
+<img src="https://www.pngitem.com/pimgs/m/46-465969_construction-transparent-website-under-construction-sign-png-png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   <br />
   <br />
